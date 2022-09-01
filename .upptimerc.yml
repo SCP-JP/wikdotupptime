@@ -107,3 +107,6 @@ i18n:
   degradedPerformance: "🟨 パフォーマンスの低下"
   completeOutage: "🟥 完全な停止"
   partialOutage: "🟧 部分的な停止"
+
+workflowSchedule:
+  responseTime: "0 */6 * * *"
