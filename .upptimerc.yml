@@ -7,13 +7,17 @@ sites:
     url: https://www.wikidot.com/
   - name: "SCP-JP"
     url: http://scp-jp.wikidot.com/
+  - name: "SCP-JPサンドボックスⅢP"
+    url: http://scp-jp-sandbox3.wikidot.com/
+  - name: "SCP-JPファイルストレージ"
+    url: http://scp-jp-storage.wikidot.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   cname: "status.scp-jp.org"
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "Wikidot 死活監視"
+  name: "SCP-JP 死活監視"
   introTitle: ""
   navbar:
     - title: Status
