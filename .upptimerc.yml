@@ -5,20 +5,25 @@ repo: "wikdotupptime" # The name of this repository
 sites:
   - name: "Wikidot"
     url: https://www.wikidot.com/
+    icon: https://www.wikidot.com/local--favicon/favicon.gif
   - name: "SCP-JP MAINサイト"
     url: http://scp-jp.wikidot.com/
+    icon: https://scp-jp.wikidot.com/local--favicon/favicon.gif
   - name: "SCP-JP サンドボックスⅢ(SB3)"
     url: http://scp-jp-sandbox3.wikidot.com/
+    icon: https://scp-jp-sandbox3.wikidot.com/local--favicon/favicon.gif
   - name: "SCP-JP ファイルストレージ(FS)"
     url: http://scp-jp-storage.wikidot.com/
+    icon: https://scp-jp-storage.wikidot.com/local--favicon/favicon.gif
   - name: "SCP-JP 財団日本支部理事会(05)"
     url: http://05command-ja.wikidot.com/
+    icon: https://05command-ja.wikidot.com/local--favicon/favicon.gif
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   cname: "status.scp-jp.org"
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://scp-jp-storage.wdfiles.com/local--files/file%3A3396310-30-yubw/logo-remade-whiteout.svg
   name: "SCP-JP 死活監視"
   introTitle: ""
   navbar:
