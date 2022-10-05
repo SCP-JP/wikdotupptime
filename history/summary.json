@@ -58,18 +58,20 @@
     "url": "http://scp-jp-storage.wikidot.com/",
     "icon": "https://scp-jp-storage.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-fs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 1143,
-    "timeWeek": 530,
-    "timeMonth": 305,
-    "timeYear": 294,
-    "dailyMinutesDown": {}
+    "time": 321,
+    "timeDay": 1718,
+    "timeWeek": 650,
+    "timeMonth": 336,
+    "timeYear": 321,
+    "dailyMinutesDown": {
+      "2022-10-05": 0
+    }
   },
   {
     "name": "SCP-JP 財団日本支部理事会(05)",
