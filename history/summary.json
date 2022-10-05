@@ -58,19 +58,19 @@
     "url": "http://scp-jp-storage.wikidot.com/",
     "icon": "https://scp-jp-storage.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-fs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 1718,
-    "timeWeek": 650,
-    "timeMonth": 336,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.92%",
+    "time": 320,
+    "timeDay": 1478,
+    "timeWeek": 638,
+    "timeMonth": 335,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2022-10-05": 0
+      "2022-10-05": 38
     }
   },
   {
