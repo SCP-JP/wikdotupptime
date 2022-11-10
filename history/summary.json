@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 191,
-    "timeWeek": 218,
-    "timeMonth": 223,
+    "timeDay": 256,
+    "timeWeek": 213,
+    "timeMonth": 224,
     "timeYear": 310,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,20 @@
     "url": "http://scp-jp.wikidot.com/",
     "icon": "https://scp-jp.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 144,
-    "timeWeek": 158,
-    "timeMonth": 201,
+    "timeDay": 200,
+    "timeWeek": 152,
+    "timeMonth": 202,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-10": 0
+    }
   },
   {
     "name": "SCP-JP サンドボックスⅢ(SB3)",
@@ -47,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 139,
-    "timeWeek": 224,
+    "timeDay": 190,
+    "timeWeek": 220,
     "timeMonth": 193,
     "timeYear": 210,
     "dailyMinutesDown": {}
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 249,
-    "timeDay": 128,
-    "timeWeek": 150,
-    "timeMonth": 172,
-    "timeYear": 249,
+    "time": 248,
+    "timeDay": 197,
+    "timeWeek": 148,
+    "timeMonth": 173,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2022-10-05": 38
     }
@@ -85,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 260,
-    "timeWeek": 299,
-    "timeMonth": 309,
+    "timeDay": 315,
+    "timeWeek": 301,
+    "timeMonth": 308,
     "timeYear": 384,
     "dailyMinutesDown": {}
   }
