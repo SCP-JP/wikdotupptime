@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 198,
-    "timeWeek": 207,
+    "time": 308,
+    "timeDay": 207,
+    "timeWeek": 222,
     "timeMonth": 224,
-    "timeYear": 309,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,19 @@
     "url": "http://scp-jp.wikidot.com/",
     "icon": "https://scp-jp.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 234,
-    "timeDay": 247,
-    "timeWeek": 166,
-    "timeMonth": 205,
-    "timeYear": 234,
+    "time": 233,
+    "timeDay": 275,
+    "timeWeek": 180,
+    "timeMonth": 204,
+    "timeYear": 233,
     "dailyMinutesDown": {
+      "2022-11-11": 0,
       "2022-11-10": 17
     }
   },
@@ -49,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 161,
-    "timeWeek": 218,
+    "timeDay": 189,
+    "timeWeek": 231,
     "timeMonth": 192,
     "timeYear": 210,
     "dailyMinutesDown": {}
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 247,
-    "timeDay": 174,
-    "timeWeek": 145,
-    "timeMonth": 173,
-    "timeYear": 247,
+    "time": 248,
+    "timeDay": 255,
+    "timeWeek": 166,
+    "timeMonth": 175,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2022-10-05": 38
     }
@@ -87,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 265,
-    "timeWeek": 293,
-    "timeMonth": 307,
+    "timeDay": 338,
+    "timeWeek": 310,
+    "timeMonth": 309,
     "timeYear": 383,
     "dailyMinutesDown": {}
   }
