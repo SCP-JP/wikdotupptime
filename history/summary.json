@@ -6,18 +6,16 @@
     "slug": "wikidot",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 164,
-    "timeWeek": 188,
-    "timeMonth": 230,
+    "timeWeek": 197,
+    "timeMonth": 228,
     "timeYear": 284,
-    "dailyMinutesDown": {
-      "2022-12-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP MAINサイト",
@@ -25,18 +23,17 @@
     "icon": "https://scp-jp.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-main",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 228,
-    "timeDay": 91,
-    "timeWeek": 165,
-    "timeMonth": 219,
+    "timeDay": 108,
+    "timeWeek": 175,
+    "timeMonth": 218,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2022-12-13": 6,
       "2022-11-11": 32,
       "2022-11-10": 17
     }
@@ -48,18 +45,16 @@
     "slug": "scp-jp-sb-3",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 89,
-    "timeWeek": 155,
-    "timeMonth": 186,
+    "timeDay": 130,
+    "timeWeek": 164,
+    "timeMonth": 185,
     "timeYear": 202,
-    "dailyMinutesDown": {
-      "2022-12-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP ファイルストレージ(FS)",
@@ -73,8 +68,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 229,
-    "timeDay": 140,
-    "timeWeek": 162,
+    "timeDay": 163,
+    "timeWeek": 171,
     "timeMonth": 186,
     "timeYear": 229,
     "dailyMinutesDown": {
@@ -93,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 224,
-    "timeWeek": 300,
-    "timeMonth": 312,
-    "timeYear": 361,
+    "time": 360,
+    "timeDay": 272,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 360,
     "dailyMinutesDown": {}
   }
 ]
