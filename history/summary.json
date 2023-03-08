@@ -68,9 +68,9 @@
     "slug": "scp-jp-fs",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 207,
     "timeDay": 100,
@@ -78,7 +78,6 @@
     "timeMonth": 185,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-03-07": 9,
       "2022-12-05": 16,
       "2022-10-05": 38
     }
