@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 264,
-    "timeDay": 252,
-    "timeWeek": 270,
-    "timeMonth": 254,
-    "timeYear": 264,
+    "time": 263,
+    "timeDay": 236,
+    "timeWeek": 264,
+    "timeMonth": 255,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 224,
-    "timeDay": 251,
-    "timeWeek": 288,
-    "timeMonth": 243,
+    "timeDay": 261,
+    "timeWeek": 287,
+    "timeMonth": 246,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2022-11-11": 32,
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 214,
-    "timeWeek": 208,
-    "timeMonth": 188,
+    "timeDay": 198,
+    "timeWeek": 204,
+    "timeMonth": 190,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2023-02-09": 16,
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 207,
-    "timeDay": 193,
-    "timeWeek": 204,
-    "timeMonth": 188,
+    "timeDay": 198,
+    "timeWeek": 201,
+    "timeMonth": 190,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2022-12-05": 16,
@@ -87,17 +87,19 @@
     "url": "http://05command-ja.wikidot.com/",
     "icon": "https://05command-ja.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-05",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 376,
-    "timeWeek": 379,
-    "timeMonth": 386,
-    "timeYear": 352,
-    "dailyMinutesDown": {}
+    "time": 356,
+    "timeDay": 944,
+    "timeWeek": 477,
+    "timeMonth": 415,
+    "timeYear": 356,
+    "dailyMinutesDown": {
+      "2023-03-17": 0
+    }
   }
 ]
