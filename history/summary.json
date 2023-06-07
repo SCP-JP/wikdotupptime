@@ -48,9 +48,9 @@
     "slug": "scp-jp-sb-3",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
     "timeDay": 136,
@@ -58,7 +58,6 @@
     "timeMonth": 184,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-06-06": 7,
       "2023-02-09": 16,
       "2023-01-25": 16
     }
