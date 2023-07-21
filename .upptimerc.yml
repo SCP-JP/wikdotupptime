@@ -18,6 +18,13 @@ sites:
   - name: "SCP-JP 財団日本支部理事会(05)"
     url: http://05command-ja.wikidot.com/
     icon: https://05command-ja.wikidot.com/local--favicon/favicon.gif
+  - name: "SCP-JP AMC"
+    method: POST
+    url: https://scp-jp.wikidot.com/ajax-module-connector.php
+    headers:
+      - "Content-Type: application/x-www-form-urlencoded"
+      - "Cookie: wikidot_token7=123456"
+    body: '{ "wikidot_token7": "123456", "moduleName": "changes/SiteChangesListModule" }'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
