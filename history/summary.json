@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 176,
-    "timeWeek": 240,
-    "timeMonth": 244,
+    "timeDay": 209,
+    "timeWeek": 235,
+    "timeMonth": 245,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 116,
-    "timeWeek": 240,
+    "timeDay": 145,
+    "timeWeek": 234,
     "timeMonth": 228,
     "timeYear": 216,
     "dailyMinutesDown": {
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 126,
-    "timeWeek": 188,
+    "timeDay": 154,
+    "timeWeek": 183,
     "timeMonth": 191,
     "timeYear": 192,
     "dailyMinutesDown": {
@@ -69,17 +69,16 @@
     "slug": "scp-jp-fs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 199,
-    "timeDay": 1185,
-    "timeWeek": 439,
+    "timeDay": 1199,
+    "timeWeek": 437,
     "timeMonth": 252,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2023-08-25": 7,
       "2022-12-05": 16,
       "2022-10-05": 38
     }
@@ -96,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
-    "timeDay": 1475,
-    "timeWeek": 536,
-    "timeMonth": 384,
+    "timeDay": 1503,
+    "timeWeek": 531,
+    "timeMonth": 385,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2023-03-17": 18
@@ -116,8 +115,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 111,
-    "timeWeek": 157,
+    "timeDay": 126,
+    "timeWeek": 149,
     "timeMonth": 153,
     "timeYear": 152,
     "dailyMinutesDown": {}
