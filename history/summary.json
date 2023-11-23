@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 208,
-    "timeWeek": 219,
-    "timeMonth": 226,
+    "timeDay": 314,
+    "timeWeek": 235,
+    "timeMonth": 229,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 340,
-    "timeWeek": 427,
-    "timeMonth": 268,
+    "timeDay": 239,
+    "timeWeek": 433,
+    "timeMonth": 269,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2023-04-29": 16
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 187,
-    "timeDay": 204,
-    "timeWeek": 189,
-    "timeMonth": 176,
+    "timeDay": 247,
+    "timeWeek": 196,
+    "timeMonth": 178,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2023-02-09": 16,
@@ -67,17 +67,16 @@
     "slug": "scp-jp-fs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 1685,
-    "timeWeek": 582,
-    "timeMonth": 279,
+    "timeDay": 1712,
+    "timeWeek": 586,
+    "timeMonth": 280,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2023-11-22": 7,
       "2022-12-05": 16
     }
   },
@@ -93,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 328,
-    "timeWeek": 305,
-    "timeMonth": 354,
+    "timeDay": 378,
+    "timeWeek": 309,
+    "timeMonth": 356,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2023-03-17": 18
@@ -113,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 162,
-    "timeWeek": 132,
-    "timeMonth": 136,
+    "timeDay": 193,
+    "timeWeek": 137,
+    "timeMonth": 137,
     "timeYear": 145,
     "dailyMinutesDown": {}
   }
