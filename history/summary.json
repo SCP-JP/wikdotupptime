@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 323,
-    "timeWeek": 308,
-    "timeMonth": 238,
-    "timeYear": 235,
+    "time": 236,
+    "timeDay": 883,
+    "timeWeek": 398,
+    "timeMonth": 258,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2023-01-25": 16
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 259,
-    "timeWeek": 236,
-    "timeMonth": 258,
+    "timeDay": 96,
+    "timeWeek": 220,
+    "timeMonth": 254,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2023-04-29": 16
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 187,
-    "timeDay": 228,
-    "timeWeek": 196,
-    "timeMonth": 178,
-    "timeYear": 186,
+    "time": 188,
+    "timeDay": 664,
+    "timeWeek": 261,
+    "timeMonth": 194,
+    "timeYear": 187,
     "dailyMinutesDown": {
       "2023-02-09": 16,
       "2023-01-25": 16
@@ -71,14 +71,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 239,
-    "timeWeek": 525,
-    "timeMonth": 359,
-    "timeYear": 200,
-    "dailyMinutesDown": {
-      "2022-12-05": 16
-    }
+    "time": 202,
+    "timeDay": 1690,
+    "timeWeek": 417,
+    "timeMonth": 406,
+    "timeYear": 204,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP 財団日本支部理事会(05)",
@@ -91,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 443,
-    "timeWeek": 580,
-    "timeMonth": 411,
-    "timeYear": 352,
+    "time": 362,
+    "timeDay": 5745,
+    "timeWeek": 1354,
+    "timeMonth": 590,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2023-03-17": 18
     }
@@ -111,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 190,
-    "timeWeek": 149,
-    "timeMonth": 133,
-    "timeYear": 144,
+    "time": 143,
+    "timeDay": 48,
+    "timeWeek": 133,
+    "timeMonth": 129,
+    "timeYear": 143,
     "dailyMinutesDown": {}
   }
 ]
