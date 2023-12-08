@@ -85,17 +85,16 @@
     "slug": "scp-jp-05",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 954,
     "timeWeek": 1580,
     "timeMonth": 617,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2023-12-07": 12,
       "2023-03-17": 18
     }
   },
