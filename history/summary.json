@@ -4,18 +4,19 @@
     "url": "https://www.wikidot.com/",
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 234,
-    "timeWeek": 391,
-    "timeMonth": 274,
+    "timeDay": 229,
+    "timeWeek": 374,
+    "timeMonth": 272,
     "timeYear": 238,
     "dailyMinutesDown": {
+      "2023-12-10": 0,
       "2023-01-25": 16
     }
   },
@@ -30,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 174,
-    "timeWeek": 904,
-    "timeMonth": 420,
+    "time": 228,
+    "timeDay": 198,
+    "timeWeek": 899,
+    "timeMonth": 417,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2023-04-29": 16
@@ -51,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 187,
-    "timeDay": 166,
-    "timeWeek": 234,
+    "timeDay": 197,
+    "timeWeek": 232,
     "timeMonth": 193,
     "timeYear": 187,
     "dailyMinutesDown": {
@@ -72,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 220,
-    "timeWeek": 401,
+    "timeDay": 209,
+    "timeWeek": 396,
     "timeMonth": 407,
-    "timeYear": 204,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -90,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 348,
-    "timeWeek": 1332,
-    "timeMonth": 614,
+    "timeDay": 362,
+    "timeWeek": 1322,
+    "timeMonth": 613,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2023-03-17": 18
@@ -110,8 +111,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 130,
-    "timeWeek": 107,
+    "timeDay": 162,
+    "timeWeek": 106,
     "timeMonth": 126,
     "timeYear": 142,
     "dailyMinutesDown": {}
