@@ -1,7 +1,7 @@
 url: http://scp-jp.wikidot.com/
-status: up
-code: 200
-responseTime: 1241
-lastUpdated: 2024-02-27T18:17:55.001Z
+status: down
+code: 503
+responseTime: 101
+lastUpdated: 2024-02-27T19:24:50.334Z
 startTime: 2022-09-01T13:13:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
