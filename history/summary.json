@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 242,
-    "timeDay": 218,
-    "timeWeek": 228,
-    "timeMonth": 208,
+    "timeDay": 328,
+    "timeWeek": 230,
+    "timeMonth": 210,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2023-12-10": 45
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 163,
-    "timeWeek": 753,
-    "timeMonth": 557,
+    "timeDay": 267,
+    "timeWeek": 752,
+    "timeMonth": 559,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2023-04-29": 16
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 180,
-    "timeWeek": 183,
-    "timeMonth": 262,
+    "timeDay": 260,
+    "timeWeek": 185,
+    "timeMonth": 264,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 176,
-    "timeWeek": 210,
-    "timeMonth": 187,
+    "timeDay": 256,
+    "timeWeek": 212,
+    "timeMonth": 188,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 371,
-    "timeWeek": 816,
-    "timeMonth": 509,
+    "timeDay": 437,
+    "timeWeek": 809,
+    "timeMonth": 490,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2023-03-17": 18
@@ -100,17 +100,19 @@
     "url": "https://scp-jp.wikidot.com/ajax-module-connector.php",
     "icon": "https://icons.duckduckgo.com/ip3/scp-jp.wikidot.com.ico",
     "slug": "scp-jp-amc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
-    "timeDay": 131,
-    "timeWeek": 121,
-    "timeMonth": 97,
+    "timeDay": 255,
+    "timeWeek": 135,
+    "timeMonth": 102,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-02": 0
+    }
   }
 ]
