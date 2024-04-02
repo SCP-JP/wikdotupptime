@@ -44,19 +44,19 @@
     "url": "http://scp-jp-sandbox3.wikidot.com/",
     "icon": "https://scp-jp-sandbox3.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-sb-3",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 1120,
-    "timeWeek": 331,
-    "timeMonth": 200,
-    "timeYear": 196,
+    "time": 197,
+    "timeDay": 1530,
+    "timeWeek": 439,
+    "timeMonth": 227,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-04-02": 1
+      "2024-04-02": 7
     }
   },
   {
@@ -66,18 +66,16 @@
     "slug": "scp-jp-fs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
     "timeDay": 1056,
     "timeWeek": 342,
     "timeMonth": 204,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2024-04-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP 財団日本支部理事会(05)",
