@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 239,
-    "timeDay": 226,
-    "timeWeek": 217,
-    "timeMonth": 202,
+    "timeDay": 136,
+    "timeWeek": 207,
+    "timeMonth": 200,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2023-12-10": 45
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 217,
-    "timeWeek": 201,
-    "timeMonth": 180,
-    "timeYear": 256,
+    "timeDay": 94,
+    "timeWeek": 191,
+    "timeMonth": 179,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2023-04-29": 16
     }
@@ -46,18 +46,16 @@
     "slug": "scp-jp-sb-3",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 1530,
-    "timeWeek": 439,
-    "timeMonth": 227,
+    "timeDay": 1483,
+    "timeWeek": 431,
+    "timeMonth": 226,
     "timeYear": 198,
-    "dailyMinutesDown": {
-      "2024-04-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP ファイルストレージ(FS)",
@@ -71,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 1056,
-    "timeWeek": 342,
-    "timeMonth": 204,
-    "timeYear": 209,
+    "timeDay": 1011,
+    "timeWeek": 335,
+    "timeMonth": 203,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -89,8 +87,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 399,
-    "timeDay": 380,
-    "timeWeek": 349,
+    "timeDay": 237,
+    "timeWeek": 338,
     "timeMonth": 313,
     "timeYear": 395,
     "dailyMinutesDown": {}
@@ -107,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 156,
-    "timeWeek": 123,
-    "timeMonth": 121,
+    "timeDay": 48,
+    "timeWeek": 113,
+    "timeMonth": 118,
     "timeYear": 132,
     "dailyMinutesDown": {}
   }
