@@ -46,9 +46,9 @@
     "slug": "scp-jp-sb-3",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 200,
     "timeDay": 1566,
@@ -56,7 +56,7 @@
     "timeMonth": 279,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-04-15": 1
+      "2024-04-15": 11
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "http://scp-jp-storage.wikidot.com/",
     "icon": "https://scp-jp-storage.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-fs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 2448,
-    "timeWeek": 534,
-    "timeMonth": 287,
-    "timeYear": 216,
+    "time": 223,
+    "timeDay": 4878,
+    "timeWeek": 1084,
+    "timeMonth": 418,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-04-15": 1
+      "2024-04-15": 10
     }
   },
   {
