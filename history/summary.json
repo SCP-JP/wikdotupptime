@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 234,
-    "timeDay": 217,
-    "timeWeek": 209,
-    "timeMonth": 200,
+    "timeDay": 236,
+    "timeWeek": 224,
+    "timeMonth": 203,
     "timeYear": 234,
     "dailyMinutesDown": {
       "2023-12-10": 45
@@ -24,18 +24,20 @@
     "url": "http://scp-jp.wikidot.com/",
     "icon": "https://scp-jp.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 223,
-    "timeWeek": 200,
-    "timeMonth": 206,
+    "timeDay": 225,
+    "timeWeek": 210,
+    "timeMonth": 207,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "SCP-JP サンドボックスⅢ(SB3)",
@@ -49,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 165,
-    "timeWeek": 153,
-    "timeMonth": 161,
+    "timeDay": 191,
+    "timeWeek": 163,
+    "timeMonth": 163,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2024-04-15": 17
@@ -69,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 160,
-    "timeWeek": 168,
-    "timeMonth": 164,
+    "timeDay": 174,
+    "timeWeek": 174,
+    "timeMonth": 165,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -87,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 348,
-    "timeWeek": 351,
-    "timeMonth": 342,
+    "timeDay": 374,
+    "timeWeek": 364,
+    "timeMonth": 343,
     "timeYear": 395,
     "dailyMinutesDown": {}
   },
@@ -105,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 117,
-    "timeWeek": 120,
-    "timeMonth": 122,
+    "timeDay": 140,
+    "timeWeek": 128,
+    "timeMonth": 124,
     "timeYear": 130,
     "dailyMinutesDown": {}
   }
