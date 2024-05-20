@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 217,
-    "timeWeek": 224,
-    "timeMonth": 206,
+    "timeDay": 232,
+    "timeWeek": 223,
+    "timeMonth": 208,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2023-12-10": 45
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 146,
-    "timeWeek": 237,
-    "timeMonth": 206,
+    "timeDay": 190,
+    "timeWeek": 233,
+    "timeMonth": 208,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 188,
-    "timeWeek": 184,
-    "timeMonth": 167,
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 188,
+    "timeMonth": 169,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2024-04-15": 17
@@ -62,18 +62,20 @@
     "url": "http://scp-jp-storage.wikidot.com/",
     "icon": "https://scp-jp-storage.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-fs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 154,
-    "timeWeek": 174,
+    "timeDay": 150,
+    "timeWeek": 169,
     "timeMonth": 167,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-20": 0
+    }
   },
   {
     "name": "SCP-JP 財団日本支部理事会(05)",
@@ -87,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 288,
-    "timeWeek": 343,
-    "timeMonth": 345,
+    "timeDay": 349,
+    "timeWeek": 350,
+    "timeMonth": 346,
     "timeYear": 395,
     "dailyMinutesDown": {}
   },
@@ -105,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 134,
-    "timeWeek": 139,
-    "timeMonth": 127,
+    "timeDay": 142,
+    "timeWeek": 140,
+    "timeMonth": 129,
     "timeYear": 130,
     "dailyMinutesDown": {}
   }
