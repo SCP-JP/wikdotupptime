@@ -62,19 +62,19 @@
     "url": "http://scp-jp-storage.wikidot.com/",
     "icon": "https://scp-jp-storage.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-fs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 3534,
-    "timeWeek": 853,
-    "timeMonth": 330,
-    "timeYear": 240,
+    "time": 252,
+    "timeDay": 6936,
+    "timeWeek": 1707,
+    "timeMonth": 539,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-06-09": 1
+      "2024-06-09": 7
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "http://05command-ja.wikidot.com/",
     "icon": "https://05command-ja.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-05",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 3435,
-    "timeWeek": 882,
-    "timeMonth": 496,
-    "timeYear": 409,
+    "time": 419,
+    "timeDay": 7663,
+    "timeWeek": 1813,
+    "timeMonth": 721,
+    "timeYear": 428,
     "dailyMinutesDown": {
-      "2024-06-09": 1
+      "2024-06-09": 8
     }
   },
   {
