@@ -24,19 +24,19 @@
     "url": "http://scp-jp.wikidot.com/",
     "icon": "https://scp-jp.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-main",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 1417,
-    "timeWeek": 1192,
+    "timeDay": 1262,
+    "timeWeek": 1165,
     "timeMonth": 419,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2024-06-10": 0
+      "2024-06-10": 5
     }
   },
   {
