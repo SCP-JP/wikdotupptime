@@ -26,18 +26,16 @@
     "slug": "scp-jp-main",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
     "timeDay": 4555,
     "timeWeek": 1194,
     "timeMonth": 422,
     "timeYear": 274,
-    "dailyMinutesDown": {
-      "2024-06-09": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP サンドボックスⅢ(SB3)",
