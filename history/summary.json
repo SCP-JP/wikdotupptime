@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 152,
-    "timeWeek": 1227,
-    "timeMonth": 436,
+    "timeDay": 186,
+    "timeWeek": 1234,
+    "timeMonth": 437,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2023-12-10": 45
@@ -26,18 +26,16 @@
     "slug": "scp-jp-main",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 1262,
-    "timeWeek": 1165,
-    "timeMonth": 419,
-    "timeYear": 274,
-    "dailyMinutesDown": {
-      "2024-06-10": 5
-    }
+    "time": 268,
+    "timeDay": 333,
+    "timeWeek": 1191,
+    "timeMonth": 426,
+    "timeYear": 275,
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP サンドボックスⅢ(SB3)",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 7961,
-    "timeWeek": 2764,
-    "timeMonth": 831,
+    "timeDay": 152,
+    "timeWeek": 2770,
+    "timeMonth": 832,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2024-04-15": 17
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 111,
-    "timeWeek": 1696,
-    "timeMonth": 536,
+    "timeDay": 154,
+    "timeWeek": 1703,
+    "timeMonth": 537,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -89,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 431,
-    "timeDay": 4070,
-    "timeWeek": 2366,
-    "timeMonth": 856,
+    "timeDay": 309,
+    "timeWeek": 2373,
+    "timeMonth": 858,
     "timeYear": 441,
     "dailyMinutesDown": {}
   },
@@ -107,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 86,
-    "timeWeek": 659,
-    "timeMonth": 241,
+    "timeDay": 111,
+    "timeWeek": 665,
+    "timeMonth": 242,
     "timeYear": 141,
     "dailyMinutesDown": {}
   }
