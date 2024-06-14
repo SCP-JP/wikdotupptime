@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 289,
-    "timeWeek": 1249,
-    "timeMonth": 447,
+    "timeDay": 130,
+    "timeWeek": 1233,
+    "timeMonth": 444,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2023-12-10": 45
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 328,
-    "timeWeek": 1230,
-    "timeMonth": 441,
+    "time": 268,
+    "timeDay": 94,
+    "timeWeek": 1219,
+    "timeMonth": 437,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 207,
-    "timeWeek": 2631,
-    "timeMonth": 829,
+    "time": 249,
+    "timeDay": 148,
+    "timeWeek": 2625,
+    "timeMonth": 828,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2024-04-15": 17
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 185,
-    "timeWeek": 1711,
-    "timeMonth": 542,
+    "timeDay": 99,
+    "timeWeek": 1703,
+    "timeMonth": 540,
     "timeYear": 259,
     "dailyMinutesDown": {}
   },
@@ -80,18 +80,20 @@
     "url": "http://05command-ja.wikidot.com/",
     "icon": "https://05command-ja.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-05",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 385,
-    "timeWeek": 2404,
-    "timeMonth": 871,
-    "timeYear": 442,
-    "dailyMinutesDown": {}
+    "time": 434,
+    "timeDay": 833,
+    "timeWeek": 2418,
+    "timeMonth": 887,
+    "timeYear": 444,
+    "dailyMinutesDown": {
+      "2024-06-14": 0
+    }
   },
   {
     "name": "SCP-JP AMC",
@@ -105,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 155,
-    "timeWeek": 676,
-    "timeMonth": 248,
+    "timeDay": 58,
+    "timeWeek": 664,
+    "timeMonth": 246,
     "timeYear": 141,
     "dailyMinutesDown": {}
   }
