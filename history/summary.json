@@ -80,19 +80,19 @@
     "url": "http://05command-ja.wikidot.com/",
     "icon": "https://05command-ja.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-05",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 434,
-    "timeDay": 833,
-    "timeWeek": 2418,
-    "timeMonth": 887,
+    "timeDay": 731,
+    "timeWeek": 2351,
+    "timeMonth": 881,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2024-06-14": 0
+      "2024-06-14": 19
     }
   },
   {
