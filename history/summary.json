@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 249,
-    "timeDay": 149,
-    "timeWeek": 183,
-    "timeMonth": 437,
+    "time": 250,
+    "timeDay": 289,
+    "timeWeek": 203,
+    "timeMonth": 206,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2023-12-10": 45
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 95,
-    "timeWeek": 173,
-    "timeMonth": 480,
+    "time": 272,
+    "timeDay": 351,
+    "timeWeek": 212,
+    "timeMonth": 240,
     "timeYear": 279,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 128,
-    "timeWeek": 144,
-    "timeMonth": 832,
-    "timeYear": 252,
+    "time": 249,
+    "timeDay": 199,
+    "timeWeek": 156,
+    "timeMonth": 160,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2024-04-15": 17
     }
@@ -62,18 +62,20 @@
     "url": "http://scp-jp-storage.wikidot.com/",
     "icon": "https://scp-jp-storage.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-fs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 139,
-    "timeWeek": 146,
-    "timeMonth": 550,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "timeDay": 195,
+    "timeWeek": 157,
+    "timeMonth": 167,
+    "timeYear": 259,
+    "dailyMinutesDown": {
+      "2024-07-09": 0
+    }
   },
   {
     "name": "SCP-JP 財団日本支部理事会(05)",
@@ -87,9 +89,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 434,
-    "timeDay": 284,
-    "timeWeek": 306,
-    "timeMonth": 860,
+    "timeDay": 292,
+    "timeWeek": 304,
+    "timeMonth": 356,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2024-06-14": 19
@@ -107,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 100,
-    "timeWeek": 118,
-    "timeMonth": 244,
+    "timeDay": 157,
+    "timeWeek": 128,
+    "timeMonth": 122,
     "timeYear": 139,
     "dailyMinutesDown": {}
   }
