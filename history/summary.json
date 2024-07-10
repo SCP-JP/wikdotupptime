@@ -64,18 +64,16 @@
     "slug": "scp-jp-fs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
     "timeDay": 204,
     "timeWeek": 160,
     "timeMonth": 168,
     "timeYear": 259,
-    "dailyMinutesDown": {
-      "2024-07-09": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP 財団日本支部理事会(05)",
