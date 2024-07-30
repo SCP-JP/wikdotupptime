@@ -4,18 +4,19 @@
     "url": "https://www.wikidot.com/",
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 252,
     "timeDay": 143,
-    "timeWeek": 220,
-    "timeMonth": 222,
+    "timeWeek": 218,
+    "timeMonth": 221,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2023-12-10": 45
     }
   },
@@ -24,18 +25,20 @@
     "url": "http://scp-jp.wikidot.com/",
     "icon": "https://scp-jp.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 332,
-    "timeWeek": 203,
-    "timeMonth": 212,
+    "timeDay": 283,
+    "timeWeek": 199,
+    "timeMonth": 211,
     "timeYear": 280,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   },
   {
     "name": "SCP-JP サンドボックスⅢ(SB3)",
@@ -43,10 +46,10 @@
     "icon": "https://scp-jp-sandbox3.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-sb-3",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
     "timeDay": 144,
@@ -54,7 +57,6 @@
     "timeMonth": 167,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-07-30": 7,
       "2024-04-15": 17
     }
   },
