@@ -64,19 +64,17 @@
     "icon": "https://scp-jp-storage.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-fs",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
     "timeDay": 126,
     "timeWeek": 319,
     "timeMonth": 216,
     "timeYear": 255,
-    "dailyMinutesDown": {
-      "2024-09-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP 財団日本支部理事会(05)",
