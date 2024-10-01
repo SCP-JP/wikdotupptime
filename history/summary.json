@@ -13,7 +13,7 @@
     "time": 252,
     "timeDay": 198,
     "timeWeek": 276,
-    "timeMonth": 257,
+    "timeMonth": 258,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2023-12-10": 45
@@ -33,7 +33,7 @@
     "time": 276,
     "timeDay": 121,
     "timeWeek": 279,
-    "timeMonth": 238,
+    "timeMonth": 242,
     "timeYear": 280,
     "dailyMinutesDown": {}
   },
@@ -44,17 +44,16 @@
     "slug": "scp-jp-sb-3",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 254,
     "timeDay": 736,
     "timeWeek": 329,
-    "timeMonth": 278,
+    "timeMonth": 282,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-09-30": 8,
       "2024-09-25": 15,
       "2024-09-13": 19,
       "2024-04-15": 17
@@ -74,7 +73,7 @@
     "time": 252,
     "timeDay": 129,
     "timeWeek": 300,
-    "timeMonth": 241,
+    "timeMonth": 243,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2024-09-28": 16
@@ -94,7 +93,7 @@
     "time": 449,
     "timeDay": 303,
     "timeWeek": 398,
-    "timeMonth": 525,
+    "timeMonth": 532,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2024-09-25": 15,
@@ -116,7 +115,7 @@
     "time": 141,
     "timeDay": 93,
     "timeWeek": 167,
-    "timeMonth": 159,
+    "timeMonth": 161,
     "timeYear": 141,
     "dailyMinutesDown": {}
   }
