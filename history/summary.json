@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 253,
-    "timeDay": 216,
-    "timeWeek": 214,
-    "timeMonth": 248,
-    "timeYear": 255,
+    "timeDay": 203,
+    "timeWeek": 205,
+    "timeMonth": 247,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2023-12-10": 45
     }
@@ -26,18 +26,16 @@
     "slug": "scp-jp-main",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 195,
-    "timeWeek": 281,
-    "timeMonth": 248,
+    "timeDay": 184,
+    "timeWeek": 270,
+    "timeMonth": 247,
     "timeYear": 279,
-    "dailyMinutesDown": {
-      "2024-11-19": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SCP-JP サンドボックスⅢ(SB3)",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 254,
-    "timeDay": 191,
-    "timeWeek": 156,
-    "timeMonth": 193,
+    "timeDay": 170,
+    "timeWeek": 150,
+    "timeMonth": 192,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2024-09-25": 15,
@@ -73,10 +71,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 256,
-    "timeDay": 200,
-    "timeWeek": 180,
+    "timeDay": 192,
+    "timeWeek": 174,
     "timeMonth": 238,
-    "timeYear": 261,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2024-11-04": 27,
       "2024-09-28": 16
@@ -94,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 475,
-    "timeDay": 443,
-    "timeWeek": 389,
-    "timeMonth": 626,
+    "timeDay": 448,
+    "timeWeek": 385,
+    "timeMonth": 627,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2024-09-25": 15,
@@ -116,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
-    "timeDay": 137,
-    "timeWeek": 139,
-    "timeMonth": 151,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 150,
     "timeYear": 142,
     "dailyMinutesDown": {}
   }
