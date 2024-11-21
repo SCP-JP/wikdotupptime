@@ -4,19 +4,19 @@
     "url": "https://www.wikidot.com/",
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 267,
-    "timeDay": 3444,
-    "timeWeek": 1008,
-    "timeMonth": 431,
+    "timeDay": 2898,
+    "timeWeek": 980,
+    "timeMonth": 429,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-11-21": 32,
+      "2024-11-21": 48,
       "2023-12-10": 45
     }
   },
@@ -25,19 +25,19 @@
     "url": "http://scp-jp.wikidot.com/",
     "icon": "https://scp-jp.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-main",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 278,
-    "timeDay": 79,
-    "timeWeek": 239,
+    "time": 277,
+    "timeDay": 108,
+    "timeWeek": 238,
     "timeMonth": 242,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2024-11-21": 44
+      "2024-11-21": 61
     }
   },
   {
@@ -113,19 +113,19 @@
     "url": "https://scp-jp.wikidot.com/ajax-module-connector.php",
     "icon": "https://icons.duckduckgo.com/ip3/scp-jp.wikidot.com.ico",
     "slug": "scp-jp-amc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.14%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
-    "time": 143,
-    "timeDay": 190,
-    "timeWeek": 161,
-    "timeMonth": 157,
-    "timeYear": 143,
+    "time": 144,
+    "timeDay": 712,
+    "timeWeek": 252,
+    "timeMonth": 178,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-11-21": 41
+      "2024-11-21": 57
     }
   }
 ]
