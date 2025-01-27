@@ -1,7 +1,7 @@
 url: https://scp-jp.wikidot.com/ajax-module-connector.php
-status: up
-code: 200
-responseTime: 89
-lastUpdated: 2025-01-27T12:36:15.715Z
+status: down
+code: 503
+responseTime: 79
+lastUpdated: 2025-01-27T14:33:26.617Z
 startTime: 2023-07-21T05:37:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
