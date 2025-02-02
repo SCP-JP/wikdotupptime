@@ -27,9 +27,9 @@
     "slug": "scp-jp-main",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 265,
     "timeDay": 951,
@@ -37,7 +37,6 @@
     "timeMonth": 234,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-02-01": 9,
       "2024-12-30": 16,
       "2024-12-26": 29,
       "2024-11-21": 61
